@@ -68,7 +68,7 @@ while not choice:
                 value_of_home = float(input("\nEnter present value of the house (e.g. 100000):\t\t £"))
                 interest_rate = float(input("Enter interest rate (e.g. 7):\t\t\t\t %"))
                 number_month = int(input("Enter number of months to pay the bond. (e.g. 120):\t  "))
-                percentage_rate = interest_rate / 100
+                percentage_rate = (interest_rate / 100) / 12
                 repayment = (percentage_rate * value_of_home) / (1 - (1 + percentage_rate) ** (-number_month))
                 print(f"Your monthly payment is: \t\t\t\t £{repayment:0.2f}\n")
                 repeat = input("Would you like to try again? (Y/N) ")
