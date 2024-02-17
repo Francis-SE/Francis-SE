@@ -87,7 +87,7 @@ while not choice:
                     choice = True
 
 
-    # user doesn't type valid input.
+    # If user doesn't type valid input.
     # The `else` statement is executed when the user's input does not match any of the valid options
     # ("investment" or "bond"). It prints a message informing the user that their input is not
     # recognized and reminds them to choose only from the given options.
