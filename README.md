@@ -8,10 +8,11 @@ Ambitious software engineering student with a thirst of knowledge and dedication
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [francis.calabia@yahoo.com](mailto:francis.calabia@yahoo.com)
-*   🧠  I'm learning Python<a href="https://www.github.com/Francis-SE" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Python
+*   🤝  I'm open to collaborating on I'm open to collaborating on projects<a href="https://www.github.com/Francis-SE" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Francis-SE?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
                     </p>
                     
                   ### Socials
